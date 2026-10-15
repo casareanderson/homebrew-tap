@@ -3,8 +3,8 @@ class Sieve < Formula
 
   desc "CVE scanner for Linux hosts and containers using OSV.dev, CISA KEV and EPSS"
   homepage "https://github.com/casareanderson/sieve"
-  url "https://files.pythonhosted.org/packages/2f/47/81a8067074ec54bcb00023c094d9b019287611907a42efa656bc5dcd4c68/sieve_scan-0.4.0.tar.gz"
-  sha256 "62dc287b957e85b66029ca8a968fe2b01033e788660dcba8530d5948724b24cc"
+  url "https://files.pythonhosted.org/packages/dd/cd/61e034770cc8b141714db002549248fca7cb59f490652558910dd8c5181c/sieve_scan-0.5.0.tar.gz"
+  sha256 "4d6367a938d7f6cbcb924085973f19ffa47d855ea91bb7bb32556708df6d154b"
   license "AGPL-3.0-only"
 
   depends_on "certifi"
